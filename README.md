@@ -2,7 +2,7 @@
 
 ### The Menu
 
-This is the future home of our world-famous curated collection of photos, videos, and other branded pieces. This content is property of `Left Coast Collective, Inc.` based out of San Diego, California and is offered free-of-charge for public use.
+This is the future home of our world-famous curated collection of photos, videos, and other branded pieces. This content is property of `Left Coast Collective, Inc.` based out of San Diego, California. It is offered free-of-charge for public use.
 
 The intention is that these pieces be left intact as unaltered artistic works, and citation be given both for `Left Coast Collective` and the original author(s) we commissioned.
 
