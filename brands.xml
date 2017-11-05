@@ -1,1 +1,5 @@
-<root></root>
+<root>
+  <Brand ID="TEST">
+    <Name>Test Items</Name>
+  </Brand>
+</root>
