@@ -1,6 +1,6 @@
 # Brands Registry
 
-This directory is full of logos, with the filename being the brand in camel case with underscores instead of spaces.
+This directory is full of logos, with the filename being the brand in camel case no underscores or spaces.
 
 For example:
 
