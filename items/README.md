@@ -1,6 +1,6 @@
 # Structure
 
-This is an example heirarchy of directories and files, with no underscores or spaces:
+This is an example heirarchy of directories and files, with no underscores or spaces in `Brand` names:
 
 - `menu/items/_house`
   - `menu/items/_house/Item1.jpeg`
