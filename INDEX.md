@@ -46,7 +46,7 @@ All this information comes together in every `Product Description` for purchasin
   <Brand>TEG</Brand>
   <Description>...</Description>
   <Media>
-    <Image>URL0</Image>
+    <Image height="..." width="...">URL0</Image>
     <Image>URL1</Image>
     <Video>URL2</Video>
   </Media>
