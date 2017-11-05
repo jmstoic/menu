@@ -16,3 +16,5 @@ This is an example heirarchy of directories and files, with no underscores or sp
   - `menu/items/Type2`
     - `menu/items/Type2/Item1.jpeg`
     - `menu/items/Type2/Item2.jpeg`
+
+The sections beginning with underscores ( `_` ) are special keywords.
