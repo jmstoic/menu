@@ -4,6 +4,7 @@ The `Left Coast` menu spreads across many regions, but it has one registry with 
 
 The `Product` is an abstract idea, used by computers and insiders trained to understand inventory management. `Items` are physical objects we buy, usually consume, and all which have "real" information we actually care about, such as:
 
+- A `SKU` that is unique to it, but which gives clues to its `Brand` if any.
 - A full-text/markdown `Description` that can be changed in once place then automatically changes everywhere it exists.
 - `Brand` code(s) that identify who cultivates, manufactures, or otherwise produces the product.
 - Content attachments such as photos and videos, with full meta data potentially added; such as resolution, format, etc.
