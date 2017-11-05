@@ -20,7 +20,7 @@ Inventory systems only need to know `Stock Levels`, `Stock Locations`, `Movement
 The `Item` data is real-world information people need, such as:
 - `Brand` code(s) that identify who cultivates, manufactures, or otherwise produces the product.
 - A full-text/markdown `Description` that can be changed in once place then automatically changes everywhere it exists.
-- Content attachments such as photos and videos, with full meta data potentially added; such as resolution, format, etc.
+- `Media` attachments such as photos and videos, with full meta data potentially added; such as resolution, format, etc.
 - `Tags` ( new, necessary for better highlighting of celebrity/veteran choices easily by hashtagging )
 - `Category` Codes ( previously one category only )
 
