@@ -66,3 +66,8 @@ All this information comes together in every `Product Description` for purchasin
 ---
 
 This index is not intended to be directly edited manually, except in extreme or early circumstances. The idea is to manage this information in a separate database, but toexport to this format which can be easily and publicly shared.
+
+## To-do down the line:
+
+- [ ] Allow inclusion of other files by link, such as all the items of a certain brand together.
+- [ ] Allow inclusion of other item or brand data specifically, such as items sharing the same description.
