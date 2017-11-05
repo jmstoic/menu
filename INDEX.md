@@ -19,7 +19,7 @@ The `Item` data is real-world information people need, such as:
 
 ## Brands
 
-- Are refererenced by a unique `ID` that is part of the `SKU` of their `Products`.
+- Are refererenced by a unique `ID` that is part of the `SKU` of their `Items` in the index.
 
 And then there is the information about the producer, separate of the `Item` information:
 - A display `Name` the `Brand` refers to itself by.
