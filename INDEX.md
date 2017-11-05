@@ -2,7 +2,7 @@
 
 This is a very simple way of maintaining menu data, now what we are already publicly storing the menu photos here in this repository. It saves many, many steps in repeatedly moving around data from system to system, and/or within each system.
 
-### Current Indices:
+## Current Indices:
 
 * **Brands**: https://github.com/LeftCoastCollective/menu/blob/master/brands.xml
 * **Items**: https://github.com/LeftCoastCollective/menu/blob/master/items.xml
