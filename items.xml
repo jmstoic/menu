@@ -1,1 +1,11 @@
-<root></root>
+<root>
+  <Item SKU='TEST-ITEM'>
+    <Brand>TEST</Brand>
+    <Description>Test item, demonstrating the format.</Description>
+    <Media>
+      <Image>https://github.com/LeftCoastCollective/branding/raw/master/placeholder.jpg</Video>
+    </Media>
+    <Tags>test</Tags>
+    <Categories>test</Categories>
+  </Item>
+</root>
