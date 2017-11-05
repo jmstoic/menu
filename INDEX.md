@@ -9,7 +9,7 @@ This is a very simple way of maintaining menu data, now what we are already publ
 
 ---
 
-The `Left Coast` menu spreads across many regions, but it has one registry with many items shared between areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves.
+The `Left Coast` menu spreads across regions, with one index of many items shared between all the areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves, in a system many can manage ( with supervision and quality control ) versus giving everyone access to a "light" form of asset management just to maintain the attributes and public-facing content associated with an `Item` offered online.
 
 Inventory systems only need to know `Stock Levels`, `Stock Locations`, `Movement History`, etc. That is the difference between an `Item` and a `Product`. The `Product` is an abstract _idea_ used by computers and insiders who understand inventory management. `Items` are descriptions of objects we buy, usually consume, and all which have "real" information we actually care about. `Items` are _things_ anyone ought to be able to understand, find out more about, and ultimately obtain.
 
