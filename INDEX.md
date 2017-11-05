@@ -2,6 +2,7 @@
 
 The `Left Coast` menu spreads across many regions, but it has one registry with many items shared between areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves. The inventory systems only need to know things like `Stock Levels`, `Storage Locations`, `Movement History`, etc. That is the difference betwen an `Item` and a `Product`.
 
+## Items
 The `Product` is an abstract idea, used by computers and insiders trained to understand inventory management. `Items` are physical objects we buy, usually consume, and all which have "real" information we actually care about, such as:
 
 - A `SKU` that is unique to it, but which gives clues to its `Brand` if any.
@@ -11,11 +12,14 @@ The `Product` is an abstract idea, used by computers and insiders trained to und
 - `Tags` ( new, necessary for better highlighting of celebrity/veteran choices easily by hashtagging )
 - `Category` Codes ( previously one category only )
 
-And then there is `Brand` information including:
+## Brands
+
+And then there is the information about the producer including:
 - A unique `ID` that is part of the `SKU` for `Products`
 - A display `Name` the `Brand` refers to itself by.
 - The `Instagram` and/or `Twitter`, `Facebook`, `LinkedIn` profiles, etc.
 - Website address.
+- More in the future, such as a promotional materials, etc.
 
 All this information comes together in every `Product Description` for purchasing online, but it need not be entered in many different places. Instead we keep it here in this index which all regions maintain. It is intentionally "almost" human readable and not overly intimidating to look at and pretty easily figure out what it means.
 
