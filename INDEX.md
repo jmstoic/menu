@@ -11,7 +11,6 @@ The inventory systems only need to know things like `Stock Levels`, `Storage Loc
 - Are referenced by a `SKU` that is unique to them, but which gives clues to its `Brand` if any.
 
 The `Item` data is real-world information people need, such as:
-
 - `Brand` code(s) that identify who cultivates, manufactures, or otherwise produces the product.
 - A full-text/markdown `Description` that can be changed in once place then automatically changes everywhere it exists.
 - Content attachments such as photos and videos, with full meta data potentially added; such as resolution, format, etc.
@@ -20,8 +19,9 @@ The `Item` data is real-world information people need, such as:
 
 ## Brands
 
+- Are refererenced by a unique `ID` that is part of the `SKU` of their `Products`.
+
 And then there is the information about the producer, separate of the `Item` information:
-- A unique `ID` that is part of the `SKU` for `Products`
 - A display `Name` the `Brand` refers to itself by.
 - The `Instagram` and/or `Twitter`, `Facebook`, `LinkedIn` profiles, etc.
 - Website address.
