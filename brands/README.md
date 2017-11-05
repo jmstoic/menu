@@ -4,8 +4,8 @@ This directory is full of logos, with the filename being the brand in camel case
 
 For example:
 
-- `Lucid_Vapes.png`
-- `Quality_over_Quantity.png`
+- `LucidVapes.png`
+- `QOQ.png`
 - `Moxie.png`
-- `Rare_Terps.png`
-- `Team_Elite.png`
+- `RareTerps.png`
+- `TeamElite.png`
