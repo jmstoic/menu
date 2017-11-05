@@ -29,9 +29,10 @@ The `Item` data is real-world information people need, such as:
 - Are refererenced by a unique `ID` that is part of the `SKU` of their `Items` in the index.
 
 And then there is the information about the producer, separate of the `Item` information:
-- A display `Name` the `Brand` refers to itself by.
-- The `Instagram` and/or `Twitter`, `Facebook`, `LinkedIn` profiles, etc.
-- Website address.
+- A display `Name` the brand refers to itself by.
+- The `Instagram/IG` and/or `Twitter/Tw`, `Facebook/Fb`, `LinkedIn/Li` profiles, etc.
+- `Logo` for the brand.
+- `URL` for their website.
 - More in the future, such as a promotional materials, etc.
 
 All this information comes together in every `Product Description` for purchasing online, but it need not be entered in many different places. Instead we keep it here in this index which all regions maintain. It is intentionally "almost" human readable and not overly intimidating to look at and pretty easily figure out what it means.
@@ -68,6 +69,8 @@ All this information comes together in every `Product Description` for purchasin
 ```xml
 <Brand ID="TEG">
   <Name>Team Elite Genetics</Name>
+  <Logo>...</Logo>
+  <URL>...</URL>
   <IG>teamelitegenetics</IG>
 </Brand>
 <Brand ID="STICKY">
