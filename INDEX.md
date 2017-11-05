@@ -2,10 +2,12 @@
 
 This is a very simple way of maintaining menu data, now what we are already publicly storing the menu photos here in this repository. It saves many, many steps in repeatedly moving around data from system to system, or within one system.
 
-### Current Indices:
+#### Current Indices:
 
 * **Brands**: https://github.com/LeftCoastCollective/menu/blob/master/brands.xml
 * **Items**: https://github.com/LeftCoastCollective/menu/blob/master/items.xml
+
+---
 
 The `Left Coast` menu spreads across many regions, but it has one registry with many items shared between areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves.
 
