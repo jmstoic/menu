@@ -1,11 +1,15 @@
 # Public Index Specification
 
-The `Left Coast` menu spreads across many regions, but it has one registry with many items shared between areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves. The inventory systems only need to know things like `Stock Levels`, `Storage Locations`, `Movement History`, etc. That is the difference betwen an `Item` and a `Product`.
+This is a very simple way of maintaining menu data, now what we are already publicly storing the menu photos here in this repository. It saves many, many steps in repeatedly moving around data from system to system, or within one system.
+
+The `Left Coast` menu spreads across many regions, but it has one registry with many items shared between areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves. The inventory systems only need to know things like `Stock Levels`, `Storage Locations`, `Movement History`, etc. That is the difference between an `Item` and a `Product`. The `Product` is an abstract _idea_, used by computers and insiders who understand inventory management. `Items` are physical objects we buy, usually consume, and all which have "real" information we actually care about. `Items` are _things_ anyone ought to be able to understand, find out more about, and ultimately obtain.
 
 ## Items
-The `Product` is an abstract idea, used by computers and insiders trained to understand inventory management. `Items` are physical objects we buy, usually consume, and all which have "real" information we actually care about, such as:
 
-- A `SKU` that is unique to it, but which gives clues to its `Brand` if any.
+- Are referenced by a `SKU` that is unique to them, but which gives clues to its `Brand` if any.
+
+The `Item` data is real-world information people need, such as:
+
 - `Brand` code(s) that identify who cultivates, manufactures, or otherwise produces the product.
 - A full-text/markdown `Description` that can be changed in once place then automatically changes everywhere it exists.
 - Content attachments such as photos and videos, with full meta data potentially added; such as resolution, format, etc.
@@ -14,7 +18,7 @@ The `Product` is an abstract idea, used by computers and insiders trained to und
 
 ## Brands
 
-And then there is the information about the producer including:
+And then there is the information about the producer, separate of the `Item` information:
 - A unique `ID` that is part of the `SKU` for `Products`
 - A display `Name` the `Brand` refers to itself by.
 - The `Instagram` and/or `Twitter`, `Facebook`, `LinkedIn` profiles, etc.
