@@ -2,6 +2,11 @@
 
 This is a very simple way of maintaining menu data, now what we are already publicly storing the menu photos here in this repository. It saves many, many steps in repeatedly moving around data from system to system, or within one system.
 
+### Current Indices:
+
+* **Brands**: https://github.com/LeftCoastCollective/menu/blob/master/brands.xml
+* **Items**: https://github.com/LeftCoastCollective/menu/blob/master/items.xml
+
 The `Left Coast` menu spreads across many regions, but it has one registry with many items shared between areas. For that reason, `Product` information that matters to humans is stored apart from the inventory records themselves.
 
 The inventory systems only need to know things like `Stock Levels`, `Storage Locations`, `Movement History`, etc. That is the difference between an `Item` and a `Product`. The `Product` is an abstract _idea_, used by computers and insiders who understand inventory management. `Items` are physical objects we buy, usually consume, and all which have "real" information we actually care about. `Items` are _things_ anyone ought to be able to understand, find out more about, and ultimately obtain.
