@@ -11,3 +11,5 @@ All authors and media producers who also share in the ownership of this material
 - [Menu Item Registry](https://docs.google.com/spreadsheets/d/136kTdqqwIjhrMX2WUIAya5PujSRwx7kgr0XoawYv2o0/edit?usp=sharing)
 - [Item Registry Structure Notes](https://github.com/LeftCoastCollective/menu/blob/master/items/README.md)
 - [Brand Registry Structure Notes](https://github.com/LeftCoastCollective/menu/tree/master/brands/README.md)
+
+- Simple [Public Index Specification](https://github.com/LeftCoastCollective/menu/tree/master/INDEX.md)
