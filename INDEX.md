@@ -23,6 +23,7 @@ The `Item` data is real-world information people need, such as:
 - `Media` attachments such as photos and videos, with full meta data potentially added; such as resolution, format, etc.
 - `Tags` ( new, necessary for better highlighting of celebrity/veteran choices easily by hashtagging )
 - `Category` Codes ( previously one category only )
+- `Varieties`, a list of other `SKU` codes that exist for the same item, but in a different form.
 
 ## Brands
 
