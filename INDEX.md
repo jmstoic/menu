@@ -63,10 +63,10 @@ All this information comes together in every `Product Description` for purchasin
   <Tags>...</Tags>
   <Categories>...</Categories>
   <Varieties>
-    <Variety SKU="STICK-SLH-4G">Eighth</Variety>
-    <Variety SKU="STICK-SLH-8G">Quarter</Variety>
-    <Variety SKU="STICK-SLH-HO">Half Ounce</Variety>
-    <Variety SKU="STICK-SLH-OZ">Ounce</Variety>
+    <Variety SKU="STICKY-SLH-4G">Eighth</Variety>
+    <Variety SKU="STICKY-SLH-8G">Quarter</Variety>
+    <Variety SKU="STICKY-SLH-HO">Half Ounce</Variety>
+    <Variety SKU="STICKY-SLH-OZ">Ounce</Variety>
   </Varieties>
 </Item>
 ```
